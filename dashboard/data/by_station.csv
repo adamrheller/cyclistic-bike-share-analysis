@@ -1,0 +1,169 @@
+start_station_name,casual_rides,commute,casual_share,group
+Aberdeen St & Jackson Blvd,3515,23.2,26.9,Other
+Aberdeen St & Randolph St,3195,24.5,33.0,Other
+Adler Planetarium,9993,12.0,72.2,Attraction
+Bissell St & Armitage Ave,3731,15.2,36.5,Other
+Broadway & Barry Ave,5206,15.9,31.7,Other
+Broadway & Belmont Ave,3543,15.3,30.3,Other
+Broadway & Cornelia Ave,5046,14.5,28.4,Other
+Broadway & Oakdale Ave,3406,13.8,36.0,Other
+Broadway & Sheridan Rd,4057,14.4,30.5,Other
+Broadway & Waveland Ave,5241,14.1,27.0,Other
+Burnham Harbor,4433,13.4,50.3,Attraction
+California Ave & Milwaukee Ave,3862,12.9,33.3,Other
+Calumet Ave & 18th St,3463,16.1,40.6,Other
+Canal St & Adams St,3824,32.1,22.0,Member-like
+Canal St & Madison St,6354,35.7,21.9,Member-like
+Cityfront Plaza Dr & Pioneer Ct,3776,17.1,35.2,Other
+Clarendon Ave & Gordon Ter,3499,16.0,26.2,Other
+Clarendon Ave & Junior Ter,3628,14.0,30.6,Other
+Clark St & Arlington Pl,5044,15.7,34.2,Other
+Clark St & Armitage Ave,9122,13.5,37.9,Other
+Clark St & Berwyn Ave,3861,12.9,31.6,Other
+Clark St & Chicago Ave,3320,17.6,29.9,Other
+Clark St & Drummond Pl,4087,14.8,29.6,Other
+Clark St & Eddy St ,3515,12.7,39.6,Other
+Clark St & Elm St,7059,22.0,31.0,Other
+Clark St & Grace St,3994,13.3,43.9,Other
+Clark St & Lake St,4739,21.3,28.3,Other
+Clark St & Lincoln Ave,8918,15.8,38.4,Other
+Clark St & Newport St,4861,13.2,41.2,Other
+Clark St & North Ave,3850,13.8,38.1,Other
+Clark St & Schiller St,4726,19.2,30.8,Other
+Clark St & Wellington Ave,4157,16.2,33.7,Other
+Clark St & Winnemac Ave,4631,14.4,32.3,Other
+Clark St & Wrightwood Ave,4754,16.7,31.1,Other
+Clinton St & Jackson Blvd,5144,31.1,20.6,Member-like
+Clinton St & Lake St,3884,32.5,22.9,Member-like
+Clinton St & Madison St,6429,25.9,25.8,Other
+Clinton St & Washington Blvd 2,4079,38.2,19.1,Member-like
+Columbus Dr & Randolph St,7051,14.2,35.4,Other
+Daley Center Plaza,5060,26.2,26.3,Other
+Damen Ave & Chicago Ave,3302,17.1,29.9,Other
+Damen Ave & Cortland St,3458,14.6,35.1,Other
+Damen Ave & Pierce Ave,4336,19.6,33.3,Other
+Dayton St & North Ave,3780,16.3,32.4,Other
+Dearborn Pkwy & Delaware Pl,6234,22.0,29.8,Other
+Dearborn St & Division St,5064,17.6,33.2,Other
+Dearborn St & Erie St,6928,19.6,33.9,Other
+Dearborn St & Maple St,4255,21.4,29.7,Other
+Desplaines St & Jackson Blvd,3045,25.3,25.0,Other
+Desplaines St & Kinzie St,6231,21.4,28.4,Other
+DuSable Lake Shore Dr & Balbo Dr,3283,13.1,75.3,Attraction
+DuSable Lake Shore Dr & Belmont Ave,5623,14.7,42.1,Other
+DuSable Lake Shore Dr & Diversey Pkwy,7308,13.9,40.7,Other
+DuSable Lake Shore Dr & Monroe St,28566,11.3,78.5,Attraction
+DuSable Lake Shore Dr & North Blvd,16931,12.0,54.7,Attraction
+DuSable Lake Shore Dr & Wellington Ave,5333,15.2,39.6,Other
+Dusable Harbor,13629,12.3,71.8,Attraction
+Elizabeth St & Randolph St,3008,21.9,31.0,Other
+Ellis Ave & 55th St,4440,17.8,25.5,Other
+Ellis Ave & 60th St,4258,17.9,26.7,Other
+Elston Ave & Cortland St,3395,36.3,30.9,Member-like
+Fairbanks Ct & Grand Ave,4595,15.0,34.2,Other
+Federal St & Polk St,4835,19.5,29.0,Other
+Field Blvd & South Water St,5648,17.8,41.0,Other
+Field Museum,10021,16.1,81.0,Attraction
+Franklin St & Chicago Ave,3583,28.6,28.5,Other
+Franklin St & Jackson Blvd,4454,22.9,29.1,Other
+Franklin St & Lake St,3075,28.4,26.0,Other
+Fulton Market,3882,25.4,28.9,Other
+Green St & Madison St,4354,21.8,25.9,Other
+Griffin Museum of Science and Industry,3275,14.7,59.1,Attraction
+Halsted St & Armitage Ave,4567,12.8,37.8,Other
+Halsted St & Clybourn Ave,5747,18.1,30.3,Other
+Halsted St & Roscoe St,4949,14.6,34.4,Other
+Halsted St & Wrightwood Ave,4553,14.5,33.8,Other
+Hampden Ct & Diversey Pkwy,3739,16.5,31.3,Other
+Indiana Ave & Roosevelt Rd,8007,16.1,43.0,Other
+Inner Lake Shore Dr & Aldine Ave,3226,14.1,47.8,Other
+Kedzie Ave & Milwaukee Ave,4120,13.8,40.2,Other
+Kimbark Ave & 53rd St,3274,16.3,29.3,Other
+Kingsbury St & Erie St,4579,27.5,22.8,Other
+Kingsbury St & Kinzie St 1,5022,29.4,25.8,Member-like
+Kingsbury St & Kinzie St 2,5034,28.3,21.7,Other
+LaSalle Dr & Huron St,3951,21.8,34.1,Other
+LaSalle St & Illinois St,7717,18.7,36.3,Other
+Lakefront Trail & Bryn Mawr Ave,4708,14.6,44.3,Other
+Lakefront Trail & Wilson Ave,3697,10.5,54.6,Attraction
+Lakeview Ave & Fullerton Pkwy,4969,16.9,36.6,Other
+Larrabee St & Division St,3400,23.6,31.4,Other
+Larrabee St & Webster Ave,5809,14.7,36.7,Other
+Lincoln Ave & Diversey Pkwy,3211,16.4,32.3,Other
+Lincoln Ave & Fullerton Ave,4898,15.2,30.4,Other
+Lincoln Park Conservatory,6399,12.8,50.1,Attraction
+McClurg Ct & Ohio St,7824,16.2,33.6,Other
+McCormick Place,4748,15.8,71.4,Attraction
+Michigan Ave & 14th St,3341,17.7,30.4,Other
+Michigan Ave & 18th St,3338,15.7,37.3,Other
+Michigan Ave & 8th St,9853,13.2,62.0,Attraction
+Michigan Ave & Ida B Wells Dr,3598,14.3,53.6,Attraction
+Michigan Ave & Jackson Blvd,5397,15.0,53.9,Attraction
+Michigan Ave & Lake St,8803,18.3,41.8,Other
+Michigan Ave & Oak St,20660,13.2,60.5,Attraction
+Michigan Ave & Pearson St,3590,14.8,46.8,Other
+Michigan Ave & Washington St,7734,17.8,40.8,Other
+Mies van der Rohe Way & Chestnut St,4963,17.4,34.4,Other
+Mies van der Rohe Way & Chicago Ave,3773,23.6,31.5,Other
+Millennium Park,16835,12.4,66.6,Attraction
+Milwaukee Ave & Grand Ave,4504,21.6,32.6,Other
+Milwaukee Ave & The 606,3219,15.8,29.5,Other
+Montrose Harbor,9942,11.4,56.0,Attraction
+Morgan St & Lake St,3111,23.4,34.1,Other
+Museum Campus Metra Station,3117,14.5,58.9,Attraction
+Navy Pier,49557,11.9,75.8,Attraction
+New St & Illinois St,9022,15.7,40.7,Other
+North Ave Beach,5295,11.0,66.7,Attraction
+Orleans St & Merchandise Mart Plaza,5063,28.7,28.8,Other
+Paulina St & Division St,4283,19.8,29.0,Other
+Peoria St & Jackson Blvd,4022,24.2,30.8,Other
+Pine Grove Ave & Irving Park Rd,4025,19.6,28.1,Other
+Pine Grove Ave & Waveland Ave,4801,18.0,27.0,Other
+Racine Ave & Belmont Ave,4029,14.1,37.5,Other
+Ravenswood Ave & Lawrence Ave,4777,31.0,25.2,Member-like
+Ritchie Ct & Banks St,3369,19.4,30.7,Other
+Rush St & Cedar St,3596,19.0,30.8,Other
+Rush St & Illinois St,3513,14.4,46.9,Other
+Rush St & Superior St,3807,18.3,29.7,Other
+Sangamon St & Lake St,3141,29.0,29.3,Other
+Sedgwick St & North Ave,4083,18.8,31.4,Other
+Sedgwick St & Webster Ave,3791,19.5,30.6,Other
+Shedd Aquarium,16055,12.0,81.6,Attraction
+Sheffield Ave & Addison St,4095,11.8,47.0,Other
+Sheffield Ave & Fullerton Ave,4873,17.6,30.6,Other
+Sheffield Ave & Kingsbury St,3005,17.3,23.5,Other
+Sheffield Ave & Waveland Ave,5061,15.0,44.5,Other
+Sheffield Ave & Webster Ave,3681,14.0,31.2,Other
+Sheffield Ave & Wellington Ave,4151,14.9,33.2,Other
+Sheffield Ave & Wrightwood Ave,5074,12.5,36.4,Other
+Sheridan Rd & Irving Park Rd,4327,14.2,31.0,Other
+Sheridan Rd & Montrose Ave,3377,14.3,29.9,Other
+Sheridan Rd & Noyes St (NU),3575,15.6,49.2,Other
+Shore Dr & 55th St,4377,16.1,39.5,Other
+Southport Ave & Belmont Ave,3241,14.0,32.2,Other
+Southport Ave & Roscoe St,4638,14.2,32.5,Other
+Southport Ave & Waveland Ave,4790,13.0,29.8,Other
+Southport Ave & Wellington Ave,4252,14.0,36.3,Other
+St Clair St & Ohio St,3297,15.4,37.8,Other
+State St & Chicago Ave,7871,21.5,26.2,Other
+State St & Kinzie St,4702,19.4,33.0,Other
+State St & Randolph St,4390,14.9,38.1,Other
+Stockton Dr & Wrightwood Ave,4064,15.6,34.8,Other
+Theater on the Lake,14756,11.4,56.7,Attraction
+University Ave & 57th St,5088,19.6,24.0,Other
+Wabash Ave & 9th St,4057,17.7,34.1,Other
+Wabash Ave & Grand Ave,7945,15.7,38.0,Other
+Wabash Ave & Roosevelt Rd,6001,17.3,32.8,Other
+Wabash Ave & Washington St,4680,17.1,36.3,Other
+Wells St & Concord Ln,9234,16.3,32.6,Other
+Wells St & Elm St,8063,20.1,29.6,Other
+Wells St & Evergreen Ave,5592,16.6,35.0,Other
+Wells St & Hubbard St,7933,26.7,30.9,Other
+Wells St & Huron St,7287,22.9,29.6,Other
+Wells St & Polk St,3861,20.4,32.8,Other
+Wells St & Randolph St,3611,32.6,31.6,Member-like
+Wells St & Walton St,4016,22.4,28.6,Other
+Wentworth Ave & Cermak Rd*,3376,11.0,53.1,Attraction
+Wilton Ave & Belmont Ave,5915,16.5,32.8,Other
+Wilton Ave & Diversey Pkwy,4809,16.9,30.2,Other
+Wood St & Beach Ave,3300,17.6,30.7,Other

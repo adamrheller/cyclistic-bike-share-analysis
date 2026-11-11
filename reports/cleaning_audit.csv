@@ -1,0 +1,6 @@
+step,rows_before,rows_removed,rows_after
+1. duplicate rides (appear in two files),6171785,35,6171750
+2. started before Oct 1 2025,6171750,71,6171679
+3. zero or negative ride length,6171679,29,6171650
+4. over 24 hours (system-closed),6171650,5304,6166346
+5. under 60 seconds (false starts),6166346,159192,6007154
